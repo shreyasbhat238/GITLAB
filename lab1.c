@@ -1,4 +1,4 @@
 int
 {
 	int
-		mai
+		main
